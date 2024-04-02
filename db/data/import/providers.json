@@ -1,0 +1,75 @@
+[
+  {
+    "names": [
+      "Chassineau"
+    ],
+    "vat_numbers": [],
+    "organic": false,
+    "exclusive_item_kind": null
+  },
+  {
+    "names": [
+      "Les Vergers de Boulogne"
+    ],
+    "vat_numbers": [
+      "FR61702006347"
+    ],
+    "organic": true,
+    "exclusive_item_kind": "fruits_vegetables"
+  },
+  {
+    "names": [
+      "ROUQUETTE - Jacquier",
+      "ROUQUETTE - JACQUIER ELEPHANT",
+      "ROUQUETTE-ETS JACQUIER",
+      "ROUQUETTE Jacquier"
+    ],
+    "vat_numbers": [
+      "FR.74380389239",
+      "FR74380389239"
+    ],
+    "organic": false,
+    "exclusive_item_kind": "groceries"
+  },
+  {
+    "names": [
+      "ABC PEYRAUD",
+      "STE ABC PEYRAUD"
+    ],
+    "vat_numbers": [
+      "FR15552056392"
+    ],
+    "organic": false,
+    "exclusive_item_kind": null
+  },
+  {
+    "names": [
+      "SAS Gusto"
+    ],
+    "vat_numbers": [
+      "FR29789480225"
+    ],
+    "organic": false,
+    "exclusive_item_kind": null
+  },
+  {
+    "names": [
+      "LECA MAREE"
+    ],
+    "vat_numbers": [
+      "FR96538977133"
+    ],
+    "organic": false,
+    "exclusive_item_kind": "fish"
+  },
+  {
+    "names": [
+      "Broko SAS"
+    ],
+    "vat_numbers": [
+      "FR06917408247"
+    ],
+    "organic": true,
+    "exclusive_item_kind": null
+  }
+]
