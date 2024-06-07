@@ -1,8 +1,10 @@
-require_relative "../../../config/environment"
+# frozen_string_literal: true
+
+require_relative '../../../config/environment'
 require 'json'
 
 class ImportProviders < Thor
-  desc "Import Providers", "Import Providers to database from a providers JSON File"
+  desc 'Import Providers', 'Import Providers to database from a providers JSON File'
   def process
     # Read & parse providers
     file_path = './././db/data/import/providers.json'
@@ -19,9 +21,7 @@ class ImportProviders < Thor
       )
 
       # Save them in DB if they are valid
-      if provider.valid?
-        provider.save
-      end
+      provider.save if provider.valid?
     end
   end
 end
